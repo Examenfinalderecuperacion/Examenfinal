@@ -1,0 +1,10 @@
+1 montar en github 
+2 post, get, put, delete
+3 crear base de datos
+4 exportar la db y save en el proyecto
+5 crear collage y save en el proyecto
+6 no montar la folder node_module a git hub
+7 construir el distribuidor -distri -dist
+8 sacar apuntes
+9 el commit de entrega final se llama "entrega final 2"
+10 copiar todas las condiciones y subirlas al proyecto
