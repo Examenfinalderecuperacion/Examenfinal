@@ -4,9 +4,8 @@
   "description": "examen final 2",
   "main": "index.js",
   "scripts": {
-    "dev": "node app / index.js",
+    "dev": "nodemon app / index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-
   },
   "repository": {
     "type": "git",
@@ -20,5 +19,8 @@
   "homepage": "https://github.com/Examenfinalderecuperacion/Examenfinal#readme",
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.2"
   }
 }
